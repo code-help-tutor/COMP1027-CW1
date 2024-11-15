@@ -1,0 +1,10 @@
+CHIP Tessa{
+IN  ;
+OUT ;
+
+PARTS:
+// Put your implementation here.
+
+
+}
+
